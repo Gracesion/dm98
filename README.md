@@ -7,7 +7,7 @@ Recommended to used with classic windows theme on (any windows mod is fine, but 
 
 *It's time to ditch MSN, AIM, ICQ and Yahoo.*
 
-# -----------------------------<|Original Description|>-----------------------------
+# --<|Original Description|>----------------------------------
 
 # Discord Messenger for Windows
 
