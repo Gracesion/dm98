@@ -3,7 +3,7 @@
 ![Banner](https://github.com/user-attachments/assets/bc4de406-beff-409d-9b65-31b458d23174)
 
 Discord Messenger 98 is a folk of Discord Messenger where it's made to look like something from 1999 (but doesn't work on Windows 98 sadly)
-Recommended to used with classic windows theme on (any windows mod is fine, but I recommend Project 2000 for the best experience!)
+Recommended to be used with classic windows theme on (any windows mod is fine, but I recommend Project 2000 for the best experience!)
 
 *It's time to ditch MSN, AIM, ICQ and Yahoo.*
 
